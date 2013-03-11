@@ -58,4 +58,15 @@ What metrics matter most to your company? What metrics should the
 marketing team focus on?
 
 
+Aquisition Cost/Channel
+-----------------------
 
+What is the cost of acquiring new customers? Which channels are most
+profitable?
+
+
+Budget
+------
+
+What is your marketing budget? How much/month can you spend on PPC?
+Tradeshows? You get the point.
