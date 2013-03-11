@@ -41,3 +41,21 @@ Message
 
 What key phrases/keywords have resonated with customers? What keywords
 are you trying to win online? (SEO)
+
+
+Collateral
+----------
+
+What forms of media are you using to market your company? Provide
+examples of traditional and online media (Adwords, FB Ads, Brochures,
+etc)
+
+
+Key Performance Indicators
+--------------------------
+
+What metrics matter most to your company? What metrics should the
+marketing team focus on?
+
+
+
