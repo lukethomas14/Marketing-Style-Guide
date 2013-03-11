@@ -2,7 +2,8 @@ The Marketer's Style Guide
 ==========================
 
 A short document aimed to onboard new marketing hires in a snap. Similar
-to a marketing plan, without the fluff.
+to a marketing plan, without the fluff. Also, should serve as a
+reference point for marketing decisions/analysis.
 
 
 
