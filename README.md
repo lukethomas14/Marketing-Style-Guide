@@ -28,4 +28,16 @@ map](http://lukethomas.com/wp-content/uploads/2013/03/Apple-Perceptual-Map.jpg)
 
 
 
+Campaigns
+---------
 
+What campaigns have worked in the past? What campaigns are planned for
+the future? What has worked? What has failed?
+
+
+
+Message 
+--------
+
+What key phrases/keywords have resonated with customers? What keywords
+are you trying to win online? (SEO)
